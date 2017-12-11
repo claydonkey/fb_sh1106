@@ -1,8 +1,9 @@
 /*
  * FB driver for the SH1106 OLED Controller
- * Based on the SSD1306 driver by Noralf Tronnes
+ * Based on the SSD1306 driver by Noralf Tronnes and Heiner Kallweit
  *
  * Copyright (C) 2017 Heiner Kallweit
+ * Copyright (C) 2017 Anthony Campbell
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
